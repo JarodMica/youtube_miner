@@ -1,0 +1,8 @@
+transcribed/
+youtube_vids/
+jmdict_english/
+.venv/
+__pycache__/
+
+cache.pkl
+word_frequency.csv
